@@ -21,5 +21,4 @@ The theory of NN-DO/BO is summarized in my [blog post](https://obok13.github.io/
   year={2020},
   publisher={SIAM}
 }
-}
 ```
