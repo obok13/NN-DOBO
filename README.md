@@ -1,7 +1,7 @@
 # NN-DO/BO (Neural Network - Dynamically orthogonal / Bi-orthogonal)
 This is the pytorch implementation of NN-DO/BO method.
 
-The theory of NN-DO/BO is summarized in my [blog post](https://obok13.github.io/2021/03/15/nndobo.html).
+NN-DO/BO method에 관한 설명은 제 [블로그](https://obok13.github.io/2021/03/15/nndobo.html)에 있습니다.
 
 ## Used libraries
 - pytorch 1.6.0
